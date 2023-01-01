@@ -1,16 +1,27 @@
-### Hi there 👋
+# Awirut Pusansa-ad Portfolio
 
-<!--
-**RiwRiwara/RiwRiwara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A collection of my programming projects and achievements.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Dummy
+- Dummy
+- Dummy
+
+## Projects
+
+- Dummy
+- Dummy
+
+## Accomplishments
+
+- Dummy
+
+## Contact
+
+- Email1 : awirut2629@gmail.com
+- Email2 : awirut.pusa@kmutt.ac.th
+
+---
+
+Thank you for visiting my portfolio!
