@@ -4,14 +4,14 @@ A collection of my programming projects and achievements.
 
 ## About Me
 
-- Dummy
-- Dummy
-- Dummy
+- Fullstack Developer (Java python mysql Js etc..)
+- Lowcode
+- Gamer
 
 ## Projects
 
-- Dummy
-- Dummy
+- Bowman Smasher (Java Game)
+- Outsytems website
 
 ## Accomplishments
 
