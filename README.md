@@ -1,18 +1,19 @@
 # Awirut Phusaensaart
 Hello my name is Riw,
 
-## Programmer Skills.
+## Fullstack developer Freelance/Contract
+- Lowcode outsytems developer 1 year.
+- Fullstack PHP 1 year.
+- Laravel Contract 1 year.
+- Frontend Django 6 month.
+- 
+## Tech stack Skills.
 - Design Pattern : MVC, Singleton, OOP.
-- HTML CSS JS
-- ReactJS 
-- Blazor / Radzen
-- MERN Stack,
-- Flask API
-- Django,
-- Laravel 10
+- NextJs, Svelte, Laravel, Django, Flask
 - Bootstrap5, Tailwind, Material UI.
-- Database : MariaDB, Mysql, SQL-server, MongoDB,
-- Clouds : Azure, R, Pyhton C/C++, Java, C#, PHP.
+- Database : MySql, Sql-server, MongoDB
+- Clouds : Azure
+- Familiar : Java cpp python
 
 ## Contact
 
@@ -23,5 +24,3 @@ Hello my name is Riw,
 ---
 
 Thank you for visiting my portfolio!
-
-![Riwara's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riwara&theme=dracula&show_icons=true&hide_border=true&layout=compact)
