@@ -1,75 +1,91 @@
+# Awirut Phusaensaart  
+**Fullstack Developer | Next.js, React, Golang Specialist**
 
-# Awirut Phusaensaart
-
-I'm Awirut Phusaensaart, a dedicated Fullstack Developer with over 2 years of experience crafting dynamic, scalable, and user-focused web applications. I specialize in modern technologies like Next.js, React, and React Flow, and I’m currently working as an outsourcing developer, leveraging Golang and other tools to deliver high-quality solutions. My passion lies in building efficient systems and seamless user experiences.
-
-## Experience
-
-- **Fullstack Developer (Outsourcing, Current)**
-  - Developing robust web applications using Next.js, React, and Golang for various clients.
-  - Collaborating with teams to implement scalable backend systems and responsive frontend interfaces.
-
-- **Fullstack Developer (Freelance/Contract)**
-  - Built and maintained web applications using Laravel and Django, focusing on performance and reliability.
-  - Delivered frontend solutions with Next.js, Svelte, and React Flow, emphasizing intuitive design.
-  - React flow : `https://poobpub.aiat.or.th/`
-
-- **Lowcode Outsystems Developer (1 year)**
-  - Automated business processes by developing applications that reduced manual workload by 30%.
-
-- **Fullstack PHP Developer (2 year)**   
-  - Created backend systems with PHP and integrated them with frontend frameworks like Bootstrap and Tailwind.
-  - Payment gateway systems 3Ds
-
-- **Laravel Contract (1 year)**
-  - Led a large-scale Laravel project, implementing MVC architecture and ensuring high code quality.
-
-- **Frontend Django Developer (6 months)**
-  - MOOC website `https://mooc.aiat.or.th/`
-
-## Tech Stack
-
-- **Frontend**  
-  - NextJs (2 years)  
-  - React (2 years)  
-  - React Flow (1 year)  
-  - Bootstrap5, Tailwind
-  - React Native
-
-- **Backend**  
-  - Laravel  
-  - Django  
-  - Python, FastAPI  
-  - Golang  
-
-- **Databases**  
-  - MySQL  
-  - SQL Server  
-  - MongoDB  
-
-- **Cloud**  
-  - Azure  
-
-- **Design Patterns**  
-  - MVC  
-  - Singleton  
-  - Object-Oriented Programming (OOP)
-  - Multilayer
-
-- **Other Skills**  
-  - Java  
-  - C++  
-  - Python  
-  - GitHub Flow (Proficient in collaborative workflows and version control)  
-
-## Contact
-
-- **Email**: riw.awirut@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/awirut-phusaensaart-30b59515a
-- **Portfolio**: https://riwaraproject.vercel.app
+I’m a passionate Fullstack Developer with over two years of experience building dynamic, scalable, and user-centric web applications. Proficient in modern frameworks like Next.js, React, and Golang, I excel at delivering high-quality, efficient solutions as an outsourcing developer. My focus is on crafting seamless user experiences and robust backend systems, with a commitment to clean code and innovative design.
 
 ---
 
-Thank you for visiting my GitHub profile! Explore my repositories to see my projects in action, showcasing my expertise in fullstack development and beyond. Feel free to reach out for collaboration or inquiries!
+## Professional Experience
+
+### Fullstack Developer (Outsourcing)  
+*Present*  
+- Develop high-performance web applications using **Next.js**, **React**, and **Golang** for diverse clients.  
+- Collaborate with cross-functional teams to design scalable backend architectures and responsive frontends.  
+- Optimize application performance, ensuring reliability and user satisfaction.
+
+### Fullstack Developer (Freelance/Contract)  
+*2023–Present*  
+- Built and maintained web applications with **Laravel**, **Django**, and **Next.js**, prioritizing performance and scalability.  
+- Designed intuitive frontend interfaces using **Svelte** and **React Flow** for enhanced user engagement.  
+- Notable Project: [Poobpub Platform](https://poobpub.aiat.or.th/) – Interactive workflow visualization using React Flow.
+
+### Low-Code Outsystems Developer  
+*1 Year*  
+- Streamlined business processes through custom applications, reducing manual workloads by 30%.  
+- Delivered low-code solutions with a focus on rapid deployment and maintainability.
+
+### Fullstack PHP Developer  
+*2 Years*  
+- Engineered backend systems using **PHP**, integrated with **Bootstrap** and **Tailwind CSS** for responsive frontends.  
+- Implemented secure payment gateway systems with 3DS authentication for e-commerce platforms.
+
+### Laravel Developer (Contract)  
+*1 Year*  
+- Led a large-scale **Laravel** project, implementing MVC architecture and ensuring high code quality.  
+- Enhanced application performance through optimized database queries and modular code design.
+
+### Frontend Django Developer  
+*6 Months*  
+- Developed the frontend for [MOOC Platform](https://mooc.aiat.or.th/), delivering an engaging user experience.  
+- Leveraged **Django** templates and **Bootstrap** to create responsive, user-friendly interfaces.
 
 ---
+
+## Technical Skills
+
+### Frontend Development  
+- **Next.js** (2 years)  
+- **React** (2 years)  
+- **React Flow** (1 year)  
+- **Bootstrap 5**, **Tailwind CSS**  
+- **React Native**
+
+### Backend Development  
+- **Laravel**  
+- **Django**  
+- **Python (FastAPI)**  
+- **Golang**
+
+### Databases  
+- **MySQL**  
+- **SQL Server**  
+- **MongoDB**
+
+### Cloud & DevOps  
+- **Microsoft Azure**  
+- **GitHub Flow** (Version control and collaborative workflows)
+
+### Programming Languages  
+- **Java**  
+- **C++**  
+- **Python**
+
+### Design Patterns & Methodologies  
+- **MVC**  
+- **Singleton**  
+- **Object-Oriented Programming (OOP)**  
+- **Multilayer Architecture**
+
+---
+
+## Contact Information
+
+- **Email**: [riw.awirut@gmail.com](mailto:riw.awirut@gmail.com)  
+- **LinkedIn**: [Awirut Phusaensaart](https://www.linkedin.com/in/awirut-phusaensaart-30b59515a)  
+- **Portfolio**: [riwaraproject.vercel.app](https://riwaraproject.vercel.app)  
+
+---
+
+## About Me
+
+Thank you for visiting my GitHub profile! I’m dedicated to building innovative solutions that blend functionality with exceptional user experiences. Explore my repositories to see my work in action, from fullstack web applications to interactive platforms. I’m always open to collaboration and new opportunities—feel free to connect!
