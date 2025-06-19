@@ -1,14 +1,21 @@
 # Awirut Phusaensaart  
 **Fullstack Developer | Next.js, React, Golang Specialist**
 
-I’m a passionate Fullstack Developer with over two years of experience building dynamic, scalable, and user-centric web applications. Proficient in modern frameworks like Next.js, React, and Golang, I excel at delivering high-quality, efficient solutions as an outsourcing developer. My focus is on crafting seamless user experiences and robust backend systems, with a commitment to clean code and innovative design.
-
+I’m a passionate Fullstack Developer with over four years of experience building dynamic, scalable, and user-centric web applications. Proficient in modern frameworks like Next.js, React, and Golang, I excel at delivering high-quality, efficient solutions as both an in-house and outsourcing developer. My focus is on crafting seamless user experiences and robust backend systems, with a commitment to clean code and innovative design.
 ---
 
 ## Professional Experience
+### Software Engineer — SCBX (Mothership)
+*Present*
+- Design, develop, and maintain fullstack web applications for internal platforms and customer-facing products, ensuring seamless integration between frontend and backend systems.
+- Build scalable microservices and APIs using Golang, FastAPI, and Python, while leveraging modern frontend technologies such as Next.js and React.
+- Integrate AI/ML features into banking solutions, including intelligent document processing and data classification models to enhance automation and customer experience.
+- Collaborate in Agile squads to drive continuous product innovation, from system design to production deployment.
+- Improve DevOps pipelines (CI/CD), containerization, and cloud deployment processes, enabling faster and more reliable releases.
 
+Ensure performance, security compliance (e.g., ISO/PCI), and high availability across all systems in the financial ecosystem.
 ### Fullstack Developer (Outsourcing)  
-*Present*  
+*2023*  
 - Develop high-performance web applications using **Next.js**, **React**, and **Golang** for diverse clients.  
 - Collaborate with cross-functional teams to design scalable backend architectures and responsive frontends.  
 - Optimize application performance, ensuring reliability and user satisfaction.
@@ -44,9 +51,9 @@ I’m a passionate Fullstack Developer with over two years of experience buildin
 ## Technical Skills
 
 ### Frontend Development  
-- **Next.js** (2 years)  
-- **React** (2 years)  
-- **React Flow** (1 year)  
+- **Next.js**
+- **React** 
+- **React Flow** 
 - **Bootstrap 5**, **Tailwind CSS**  
 - **React Native**
 
