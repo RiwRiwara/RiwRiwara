@@ -1,8 +1,10 @@
 # Awirut Phusaensaart  
-**Fullstack Developer | Next.js, React, Golang Specialist**
+*Fullstack Developer | Next.js, React, Golang *
+
+---
 
 I’m a passionate Fullstack Developer with over four years of experience building dynamic, scalable, and user-centric web applications. Proficient in modern frameworks like Next.js, React, and Golang, I excel at delivering high-quality, efficient solutions as both an in-house and outsourcing developer. My focus is on crafting seamless user experiences and robust backend systems, with a commitment to clean code and innovative design.
----
+
 
 ## Professional Experience
 ### Software Engineer — SCBX (Mothership)
